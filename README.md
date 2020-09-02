@@ -2,9 +2,8 @@
 
 - 👩 I am **`Lee Ji Won`**
 - 💻 I want to be a **`Web FrontEnd Developer`** 
-- 📫 How to reach me: bbongwa123@gmail.com
-  
-- 🎓 (2017.03 ~ ) Currently attending the Department of Digital Media Design at Kaywon University of Art & Design
-- 🌱 (2019.03 ~ 2020.12 ) **Depromeet** IT Union Club Activity : FrontEnd Part
-  
-![leejiwonn's github stats](https://github-readme-stats.vercel.app/api?username=leejiwonn&show_icons=true)
+- 🎓 Currently attending the Department of Digital Media Design at **Kaywon University of Art & Design** 
+- 🌱 **Depromeet** IT Union Club Activity : FrontEnd Part (2019.03 ~ 2020.12) 
+- 📫 Contact me: bbongwa123@gmail.com
+
+
