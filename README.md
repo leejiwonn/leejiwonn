@@ -8,4 +8,4 @@
 - 🌱 **`42SEOUL`** Free Engineering School (2020.12 ~ )
 - 📫 Contact me : bbongwa123@gmail.com
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejiwonn)](https://github.com/anuraghazra/github-readme-stats)
