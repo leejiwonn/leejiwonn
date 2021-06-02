@@ -9,3 +9,5 @@
 - 📫 Contact me : bbongwa123@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejiwonn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[!Notion](http://img.shields.io/badge/language-swift-orange&logo=Notion&logoColor=orange&link=https://www.leejiwonn.dev/)
