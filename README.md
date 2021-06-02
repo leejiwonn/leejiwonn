@@ -6,8 +6,9 @@
 - 🎓 Currently attending the Department of Digital Media Design at **`Kaywon University of Art & Design`** 
 - 🌱 **`Depromeet`** IT Union Club Activity : Frontend Part (2019.03 ~ 2020.12) 
 - 🌱 **`42SEOUL`** Free Engineering School (2020.12 ~ )
-- 📫 Contact me : bbongwa123@gmail.com
+- 📫 [Contact Me](mailto:bbongwa123@gmail.com)
+<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejiwonn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejiwonn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[!Notion](http://img.shields.io/badge/language-swift-orange&logo=Notion&logoColor=orange&link=https://www.leejiwonn.dev/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejiwonn&count_bg=%23C8803D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Notion](https://img.shields.io/badge/-Notion-red)](https://www.leejiwonn.dev/) [![Velog](https://img.shields.io/badge/-Velog-yellowgreen)](https://velog.io/@leejiwonn/)
