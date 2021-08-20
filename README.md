@@ -1,13 +1,13 @@
 ## About Me
 
-- 👩 I am **`Lee Ji Won`**
-- 💻 I am interested in **`front development`**
-- ⚛️ I enjoy developing with **`React`** , **`React Native`**
-- 🎓 Currently attending the Department of Digital Media Design at **`Kaywon University of Art & Design`** 
-- 🌱 **`Depromeet`** IT Union Club Activity : Frontend Part (2019.03 ~ 2020.12) 
-- 🌱 **`42SEOUL`** Free Engineering School (2020.12 ~ )
-- 🌱 **`NEXTERS`** IT Union Club Activity : Frontend Part (2021.07 ~ ) 
-- 📫 [Contact Me](mailto:bbongwa123@gmail.com)
+- 👩 &nbsp; I am **`Lee Ji Won`**
+- 💻 &nbsp; I am interested in **`front development`**
+- ⚛️ &nbsp; I enjoy developing with **`React`** , **`React Native`**
+- 🎓 &nbsp; Currently attending the Department of Digital Media Design at **`Kaywon University of Art & Design`** 
+- 🌱 &nbsp; **`Depromeet`** IT Union Club Activity : Frontend Part (2019.03 ~ 2020.12) 
+- 🌱 &nbsp; **`42SEOUL`** Free Engineering School (2020.12 ~ )
+- 🌱 &nbsp; **`NEXTERS`** IT Union Club Activity : Frontend Part (2021.07 ~ ) 
+- 📫 &nbsp; [Contact Me](mailto:bbongwa123@gmail.com)
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejiwonn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
