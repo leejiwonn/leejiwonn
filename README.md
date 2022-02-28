@@ -7,9 +7,9 @@
 - 🌱 &nbsp; **`NEXTERS`** IT Union Club Activity : Frontend Part (2021.07 ~ ) 
 - 🌱 &nbsp; **`42SEOUL`** Free Engineering School (2020.12 ~ )
 - 🌱 &nbsp; **`Depromeet`** IT Union Club Activity : Frontend Part (2019.03 ~ 2020.12) 
-- 📫 &nbsp; [Contact Me](mailto:bbongwa123@gmail.com)
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejiwonn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejiwonn&count_bg=%23C8803D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![BLOG](https://img.shields.io/badge/-BLOG-yellowgreen)](https://leejiwonn.tistory.com/)
+[![RESUME](https://img.shields.io/badge/-RESUME-lightgray)](https://steep-woolen-661.notion.site/Jiwon-Lee-6553ccf421c44fc785e0f6351dbb77a9)
