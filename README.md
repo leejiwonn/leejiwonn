@@ -4,8 +4,8 @@
 - 💻 &nbsp; I am interested in **`front development`**
 - ⚛️ &nbsp; I enjoy developing with **`React`** , **`React Native`**
 - 🎓 &nbsp; Currently attending the Department of Digital Media Design at **`Kaywon University of Art & Design`** 
-- 🌱 &nbsp; **`NEXTERS`** IT Union Club Activity : Frontend Part (2021.07 ~ 2022.02) 
-- 🌱 &nbsp; **`42SEOUL`** Free Engineering School (2020.12 ~ )
+- 🌱 &nbsp; **`NEXTERS`** IT Union Club Activity : Frontend Part (2021.07 ~ 2022.08) 
+- 🌱 &nbsp; **`42SEOUL`** Free Engineering School (2020.12 ~ 2022.08)
 - 🌱 &nbsp; **`Depromeet`** IT Union Club Activity : Frontend Part (2019.03 ~ 2020.12) 
 <br/>
 
