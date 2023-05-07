@@ -1,6 +1,6 @@
 ## About Me
 
-- 👩 &nbsp; I am **`Lee Ji Won`**
+- 👩 &nbsp; I am **`Jiwon Lee`**
 - 💻 &nbsp; I am interested in **`front development`**
 - ⚛️ &nbsp; I enjoy developing with **`React`** , **`React Native`**
 - 🎓 &nbsp; Currently attending the Department of Digital Media Design at **`Kaywon University of Art & Design`** 
